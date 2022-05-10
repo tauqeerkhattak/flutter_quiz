@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.wrteam.flutterquiz",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 5,
+        "versionName": "1.0.4",
+        "outputFile": "app-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "resources-debug.ap_",
+      "properties": {
+        "packageId": "com.wrteam.flutterquiz",
+        "split": "",
+        "minSdkVersion": "19"
+      }
+    }
+  ]
+}

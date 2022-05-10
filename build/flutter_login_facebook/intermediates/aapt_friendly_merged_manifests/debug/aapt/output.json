@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "applicationId": "ru.innim.flutter_login_facebook",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "AAPT_FRIENDLY_MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": -1,
+        "outputFile": "flutter_login_facebook-debug.aar",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "ru.innim.flutter_login_facebook",
+        "split": ""
+      }
+    }
+  ]
+}

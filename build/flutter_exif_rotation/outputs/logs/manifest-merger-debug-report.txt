@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Fattani computers\StudioProjects\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_exif_rotation-0.4.3\android\src\main\AndroidManifest.xml:1:1-71
+INJECTED from C:\Users\Fattani computers\StudioProjects\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_exif_rotation-0.4.3\android\src\main\AndroidManifest.xml:1:1-71
+INJECTED from C:\Users\Fattani computers\StudioProjects\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_exif_rotation-0.4.3\android\src\main\AndroidManifest.xml:1:1-71
+	package
+		ADDED from C:\Users\Fattani computers\StudioProjects\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_exif_rotation-0.4.3\android\src\main\AndroidManifest.xml:1:11-59
+		INJECTED from C:\Users\Fattani computers\StudioProjects\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_exif_rotation-0.4.3\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Fattani computers\StudioProjects\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_exif_rotation-0.4.3\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Fattani computers\StudioProjects\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_exif_rotation-0.4.3\android\src\main\AndroidManifest.xml:1:1-71
+uses-sdk
+INJECTED from C:\Users\Fattani computers\StudioProjects\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_exif_rotation-0.4.3\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Fattani computers\StudioProjects\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_exif_rotation-0.4.3\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Fattani computers\StudioProjects\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_exif_rotation-0.4.3\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Fattani computers\StudioProjects\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_exif_rotation-0.4.3\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Fattani computers\StudioProjects\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_exif_rotation-0.4.3\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Fattani computers\StudioProjects\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_exif_rotation-0.4.3\android\src\main\AndroidManifest.xml

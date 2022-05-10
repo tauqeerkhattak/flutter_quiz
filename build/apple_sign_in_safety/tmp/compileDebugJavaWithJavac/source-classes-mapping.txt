@@ -1,0 +1,2 @@
+com/dimakahanovski/apple_sign_in_safety/BuildConfig.java
+ com.dimakahanovski.apple_sign_in_safety.BuildConfig

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "applicationId": "com.ryanheise.just_audio",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "AAPT_FRIENDLY_MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": -1,
+        "outputFile": "just_audio-debug.aar",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.ryanheise.just_audio",
+        "split": ""
+      }
+    }
+  ]
+}

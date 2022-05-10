@@ -1,0 +1,6 @@
+io/flutter/plugins/flutterexifrotation/FlutterExifRotationPlugin.java
+ io.flutter.plugins.flutterexifrotation.FlutterExifRotationPlugin
+ io.flutter.plugins.flutterexifrotation.FlutterExifRotationPlugin$1
+ io.flutter.plugins.flutterexifrotation.FlutterExifRotationPlugin$PermissionManager
+io/flutter/plugins/flutterexifrotation/BuildConfig.java
+ io.flutter.plugins.flutterexifrotation.BuildConfig

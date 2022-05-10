@@ -1,0 +1,116 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Fattani computers\\StudioProjects\\Flutter Code\\build\\google_mobile_ads\\intermediates\\res\\merged\\debug\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Fattani computers\\.gradle\\caches\\transforms-2\\files-2.1\\d205cd19faa513c194bdc6f831230da0\\core-1.6.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "982",
+                        "endColumns": "100",
+                        "endOffsets": "1078"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Fattani computers\\.gradle\\caches\\transforms-2\\files-2.1\\ed4af78a1c9f6e03b3fbe27e48f07b1f\\jetified-play-services-basement-17.6.0\\res\\values-zh-rCN\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "157",
+                        "endOffsets": "408"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "157",
+                        "endOffsets": "258"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Fattani computers\\.gradle\\caches\\transforms-2\\files-2.1\\ca5a8fdf404d3b8543f60da1cfa1e9e2\\jetified-play-services-ads-20.4.0\\res\\values-zh-rCN\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "203,262,326,376,447,498,567,625,657,700,730,760,794,834",
+                        "endColumns": "58,63,49,70,50,68,57,31,42,29,29,33,39,31",
+                        "endOffsets": "261,325,375,446,497,566,624,656,699,729,759,793,833,865"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "263,326,394,448,523,578,651,713,749,796,830,864,902,946",
+                        "endColumns": "62,67,53,74,54,72,61,35,46,33,33,37,43,35",
+                        "endOffsets": "321,389,443,518,573,646,708,744,791,825,859,897,941,977"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Fattani computers\\StudioProjects\\Flutter Code\\build\\google_mobile_ads\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Fattani computers\\.gradle\\caches\\transforms-2\\files-2.1\\d205cd19faa513c194bdc6f831230da0\\core-1.6.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "982",
+                        "endColumns": "100",
+                        "endOffsets": "1078"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Fattani computers\\.gradle\\caches\\transforms-2\\files-2.1\\ed4af78a1c9f6e03b3fbe27e48f07b1f\\jetified-play-services-basement-17.6.0\\res\\values-zh-rCN\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "157",
+                        "endOffsets": "408"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "157",
+                        "endOffsets": "258"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Fattani computers\\.gradle\\caches\\transforms-2\\files-2.1\\ca5a8fdf404d3b8543f60da1cfa1e9e2\\jetified-play-services-ads-20.4.0\\res\\values-zh-rCN\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "203,262,326,376,447,498,567,625,657,700,730,760,794,834",
+                        "endColumns": "58,63,49,70,50,68,57,31,42,29,29,33,39,31",
+                        "endOffsets": "261,325,375,446,497,566,624,656,699,729,759,793,833,865"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "263,326,394,448,523,578,651,713,749,796,830,864,902,946",
+                        "endColumns": "62,67,53,74,54,72,61,35,46,33,33,37,43,35",
+                        "endOffsets": "321,389,443,518,573,646,708,744,791,825,859,897,941,977"
+                    }
+                }
+            ]
+        }
+    ]
+}

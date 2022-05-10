@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "applicationId": "com.dsi.facebook_audience_network",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "AAPT_FRIENDLY_MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": -1,
+        "outputFile": "facebook_audience_network-debug.aar",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.dsi.facebook_audience_network",
+        "split": ""
+      }
+    }
+  ]
+}

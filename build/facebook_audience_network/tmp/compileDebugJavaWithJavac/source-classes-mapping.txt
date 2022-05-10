@@ -1,0 +1,19 @@
+com/dsi/facebook_audience_network/BuildConfig.java
+ com.dsi.facebook_audience_network.BuildConfig
+com/dsi/facebook_audience_network/FacebookBannerAdPlugin.java
+ com.dsi.facebook_audience_network.FacebookBannerAdPlugin
+ com.dsi.facebook_audience_network.FacebookBannerAdView
+com/dsi/facebook_audience_network/FacebookRewardedVideoAdPlugin.java
+ com.dsi.facebook_audience_network.FacebookRewardedVideoAdPlugin
+ com.dsi.facebook_audience_network.FacebookRewardedVideoAdPlugin$1
+com/dsi/facebook_audience_network/FacebookConstants.java
+ com.dsi.facebook_audience_network.FacebookConstants
+com/dsi/facebook_audience_network/FacebookInterstitialAdPlugin.java
+ com.dsi.facebook_audience_network.FacebookInterstitialAdPlugin
+ com.dsi.facebook_audience_network.FacebookInterstitialAdPlugin$1
+com/dsi/facebook_audience_network/FacebookNativeAdPlugin.java
+ com.dsi.facebook_audience_network.FacebookNativeAdPlugin
+ com.dsi.facebook_audience_network.FacebookNativeAdView
+ com.dsi.facebook_audience_network.FacebookNativeAdView$1
+com/dsi/facebook_audience_network/FacebookAudienceNetworkPlugin.java
+ com.dsi.facebook_audience_network.FacebookAudienceNetworkPlugin

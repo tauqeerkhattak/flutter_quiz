@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/wrteam/flutterquiz/BuildConfig.java
+ com.wrteam.flutterquiz.BuildConfig
+com/wrteam/flutterquiz/MainActivity.java
+ com.wrteam.flutterquiz.MainActivity

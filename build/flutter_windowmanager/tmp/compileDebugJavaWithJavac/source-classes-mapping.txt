@@ -1,0 +1,4 @@
+io/adaptant/labs/flutter_windowmanager/FlutterWindowManagerPlugin.java
+ io.adaptant.labs.flutter_windowmanager.FlutterWindowManagerPlugin
+io/adaptant/labs/flutter_windowmanager/BuildConfig.java
+ io.adaptant.labs.flutter_windowmanager.BuildConfig

@@ -1,0 +1,20 @@
+io/flutter/plugins/inapppurchase/PluginPurchaseListener.java
+ io.flutter.plugins.inapppurchase.PluginPurchaseListener
+io/flutter/plugins/inapppurchase/BuildConfig.java
+ io.flutter.plugins.inapppurchase.BuildConfig
+io/flutter/plugins/inapppurchase/BillingClientFactory.java
+ io.flutter.plugins.inapppurchase.BillingClientFactory
+io/flutter/plugins/inapppurchase/BillingClientFactoryImpl.java
+ io.flutter.plugins.inapppurchase.BillingClientFactoryImpl
+io/flutter/plugins/inapppurchase/InAppPurchasePlugin.java
+ io.flutter.plugins.inapppurchase.InAppPurchasePlugin
+ io.flutter.plugins.inapppurchase.InAppPurchasePlugin$MethodNames
+io/flutter/plugins/inapppurchase/MethodCallHandlerImpl.java
+ io.flutter.plugins.inapppurchase.MethodCallHandlerImpl
+ io.flutter.plugins.inapppurchase.MethodCallHandlerImpl$1
+ io.flutter.plugins.inapppurchase.MethodCallHandlerImpl$2
+ io.flutter.plugins.inapppurchase.MethodCallHandlerImpl$3
+ io.flutter.plugins.inapppurchase.MethodCallHandlerImpl$4
+ io.flutter.plugins.inapppurchase.MethodCallHandlerImpl$5
+io/flutter/plugins/inapppurchase/Translator.java
+ io.flutter.plugins.inapppurchase.Translator
