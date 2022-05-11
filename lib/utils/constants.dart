@@ -7,7 +7,8 @@ final String packageName = "com.wrteam.flutterquiz";
 //Add language code in this list
 //visit this to find languageCode for your respective language
 //https://developers.google.com/admin-sdk/directory/v1/languages
-final List<String> supporatedLocales = ['en', 'hi', 'ur'];
+// final List<String> supporatedLocales = ['en', 'hi', 'ur'];
+final List<String> supporatedLocales = ['en', 'en-GB', 'ur'];
 //
 final String defaultLanguageCode = 'en';
 
@@ -30,7 +31,8 @@ final String examBox = "exam";
 
 //authBox keys
 final String isLoginKey = "isLogin";
-final String jwtTokenKey = "jwtToken";
+// final String jwtTokenKey = "jwtToken";
+final String jwtTokenKey = 'M}L&e6RYs7zB~?y';
 final String firebaseIdBoxKey = "firebaseId";
 final String authTypeKey = "authType";
 final String isNewUserKey = "isNewUser";
@@ -63,8 +65,8 @@ final String settingsThemeKey = "theme";
 //Add your database url
 //make sure do not add '/' at the end of url
 
-final String databaseUrl = "https://elitequiz.wrteam.in";
-
+// final String databaseUrl = "https://elitequiz.wrteam.in";
+final String databaseUrl = 'https://cricketmobileapp.com/api';
 final String baseUrl = databaseUrl + '/Api/';
 
 final String accessValue = "8525";
